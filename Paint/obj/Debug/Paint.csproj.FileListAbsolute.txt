@@ -1,0 +1,22 @@
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.exe.config
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.exe
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\bin\Debug\Paint.pdb
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Form1.resources
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Form2.resources
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.exe
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.pdb
+c:\users\janson\documents\visual studio 2013\Projects\Paint\Paint\obj\Debug\Paint.Form3.resources
+C:\Users\janson\Desktop\Paint\Paint\bin\Debug\Paint.exe.config
+C:\Users\janson\Desktop\Paint\Paint\obj\Debug\Paint.exe
+C:\Users\janson\Desktop\Paint\Paint\obj\Debug\Paint.pdb
+C:\Users\janson\Desktop\Paint\Paint\bin\Debug\Paint.exe
+C:\Users\janson\Desktop\Paint\Paint\bin\Debug\Paint.pdb
+C:\Users\janson\Desktop\Paint\Paint\obj\Debug\Paint.csprojResolveAssemblyReference.cache
+C:\Users\janson\Desktop\Paint\Paint\obj\Debug\Paint.Form1.resources
+C:\Users\janson\Desktop\Paint\Paint\obj\Debug\Paint.Form2.resources
+C:\Users\janson\Desktop\Paint\Paint\obj\Debug\Paint.Form3.resources
+C:\Users\janson\Desktop\Paint\Paint\obj\Debug\Paint.Properties.Resources.resources
+C:\Users\janson\Desktop\Paint\Paint\obj\Debug\Paint.csproj.GenerateResource.Cache
